@@ -1,0 +1,7 @@
+
+.MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"] .MuiAutocomplete-input:first-child {
+    position:absolute;
+    top:-5px;
+    width: 170px;
+    padding-left: 15px!important;
+}
